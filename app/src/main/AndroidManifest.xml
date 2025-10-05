@@ -12,7 +12,7 @@
     <!-- Android 13+ 需要的权限 -->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
     
-    <!-- 存储权限，仅在 Android 12 及以下需要 -->
+
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
         android:maxSdkVersion="32" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
@@ -30,7 +30,7 @@
         android:usesCleartextTraffic="true">
 
         <!-- 高德地图API Key -->
-        <!-- 如需替换，请在高德控制台创建 Android 平台 Key，并勾选地图/定位/搜索服务 -->
+
         <meta-data
             android:name="com.amap.api.v2.apikey"
             android:value="78f29b21b03f123638b66fd5bba7a113" />
