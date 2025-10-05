@@ -34,7 +34,7 @@ iSpot是一款基于高德地图API的Android社交应用，专注于帮助用�
 ## 📱 应用截图
 
 ### 主界面
-![主界面](docs\images\04be05c24df7bf1ecbbc36c06b4269d8.jpg)
+![主界面]([docs\images\04be05c24df7bf1ecbbc36c06b4269d8.jpg](https://github.com/ECHOzdjd/iSpot/blob/main/docs/images/04be05c24df7bf1ecbbc36c06b4269d8.jpg))
 *应用主界面，显示地图和过滤选项*
 
 ### 标记详情
