@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 允许明文流量（用于某些高德地图API） -->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    
+    <!-- 生产环境建议针对特定域名配置 -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">restapi.amap.com</domain>
+        <domain includeSubdomains="true">apilocate.amap.com</domain>
+        <domain includeSubdomains="true">webapi.amap.com</domain>
+    </domain-config>
+</network-security-config>

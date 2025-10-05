@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.ispot.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.ispot.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-mergeDebugResources-52:/layout/fragment_map.xml",
+        "source": "com.example.ispot.app-main-55:/layout/fragment_map.xml"
+    }
+]

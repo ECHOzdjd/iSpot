@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.ispot.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ispot.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_my_location.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.ispot.app-main-55:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.example.ispot.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ispot.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_message.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_person_marker.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_person_marker.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/xml_network_security_config.xml.flat",
+        "source": "com.example.ispot.app-main-55:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_activity_marker.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_activity_marker.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_activity.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_activity.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_spot.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_spot.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_map.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/layout_fragment_map.xml.flat",
+        "source": "com.example.ispot.app-main-55:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_profile.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/navigation_nav_graph.xml.flat",
+        "source": "com.example.ispot.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.ispot.app-debug-53:/drawable_ic_spot_marker.xml.flat",
+        "source": "com.example.ispot.app-main-55:/drawable/ic_spot_marker.xml"
+    }
+]

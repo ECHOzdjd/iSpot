@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ispot</string>
+    <string name="map">地图</string>
+    <string name="spots">兴趣点</string>
+    <string name="activities">活动</string>
+    <string name="messages">消息</string>
+    <string name="profile">我的</string>
+    <string name="search_hint">搜索地点、活动或用户</string>
+    <string name="nearby_people">附近的人</string>
+    <string name="nearby_activities">附近的活动</string>
+    <string name="nearby_spots">兴趣点</string>
+</resources>
