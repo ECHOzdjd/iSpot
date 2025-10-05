@@ -9,7 +9,7 @@ class ISpotApplication : Application() {
     override fun onCreate() {
         super.onCreate()
         
-        // 设置高德地图 API Key（重要！定位服务需要）
+
         // 这个 Key 必须与 AndroidManifest.xml 中的 Key 一致
         AMapLocationClient.setApiKey("78f29b21b03f123638b66fd5bba7a113")
         
